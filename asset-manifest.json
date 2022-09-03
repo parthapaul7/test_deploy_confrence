@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test_deploy_confrence/static/css/main.363712ff.css",
-    "main.js": "/test_deploy_confrence/static/js/main.3a5bcac6.js",
+    "main.js": "/test_deploy_confrence/static/js/main.6eac063f.js",
     "static/media/Mussoorie.png": "/test_deploy_confrence/static/media/Mussoorie.85ee9f1f01fdc79fd33c.png",
     "static/media/Haridwar.png": "/test_deploy_confrence/static/media/Haridwar.610199da1586e201c140.png",
     "static/media/Rishikesh.png": "/test_deploy_confrence/static/media/Rishikesh.c0d35c89847e0e94d491.png",
@@ -26,10 +26,10 @@
     "static/media/right arrow.svg": "/test_deploy_confrence/static/media/right arrow.ba51a0ce6f0c176a453860b64eaf3869.svg",
     "index.html": "/test_deploy_confrence/index.html",
     "main.363712ff.css.map": "/test_deploy_confrence/static/css/main.363712ff.css.map",
-    "main.3a5bcac6.js.map": "/test_deploy_confrence/static/js/main.3a5bcac6.js.map"
+    "main.6eac063f.js.map": "/test_deploy_confrence/static/js/main.6eac063f.js.map"
   },
   "entrypoints": [
     "static/css/main.363712ff.css",
-    "static/js/main.3a5bcac6.js"
+    "static/js/main.6eac063f.js"
   ]
 }
