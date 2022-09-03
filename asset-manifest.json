@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.363712ff.css",
+    "main.js": "./static/js/main.2104b5a8.js",
+    "static/media/Mussoorie.png": "./static/media/Mussoorie.85ee9f1f01fdc79fd33c.png",
+    "static/media/Haridwar.png": "./static/media/Haridwar.610199da1586e201c140.png",
+    "static/media/Rishikesh.png": "./static/media/Rishikesh.c0d35c89847e0e94d491.png",
+    "static/media/image 2.png": "./static/media/image 2.a55596b1b6b5abea30d5.png",
+    "static/media/image 1.png": "./static/media/image 1.74216f88db7365419e07.png",
+    "static/media/image 3.png": "./static/media/image 3.c3a57ce4f0881dbf5e07.png",
+    "static/media/6.png": "./static/media/6.0a013382a4592443cdee.png",
+    "static/media/3.png": "./static/media/3.7e05acc3ef54114cb691.png",
+    "static/media/timeline.png": "./static/media/timeline.bd4101ec951cc00c53e8.png",
+    "static/media/4.png": "./static/media/4.c5006ef595e1d6543446.png",
+    "static/media/7.png": "./static/media/7.e188a743d135feb8db94.png",
+    "static/media/5.png": "./static/media/5.26c5922df44936db4363.png",
+    "static/media/8.png": "./static/media/8.e9c9595a44149172ab20.png",
+    "static/media/2.png": "./static/media/2.6530e3f228720cc4487a.png",
+    "static/media/1.png": "./static/media/1.4d2c3eb4f160f8f35775.png",
+    "static/media/chart.png": "./static/media/chart.fe75cb2c2e7bb8fc6d9b.png",
+    "static/media/weather icon.svg": "./static/media/weather icon.59675c4656066d0ed9fef088e17a58cc.svg",
+    "static/media/weathericon 2.svg": "./static/media/weathericon 2.88ef58d218ecdca0a3f064c8b8a3156c.svg",
+    "static/media/weathericon 4.svg": "./static/media/weathericon 4.5a2efe1f0485f45c5e1a4ab13ce81f4c.svg",
+    "static/media/weathericon 3.svg": "./static/media/weathericon 3.d47a1a52beba9c3d08a7ea357ca66871.svg",
+    "static/media/location.svg": "./static/media/location.e429727b634a3e2cfb92d861874974fe.svg",
+    "static/media/right arrow.svg": "./static/media/right arrow.ba51a0ce6f0c176a453860b64eaf3869.svg",
+    "index.html": "./index.html",
+    "main.363712ff.css.map": "./static/css/main.363712ff.css.map",
+    "main.2104b5a8.js.map": "./static/js/main.2104b5a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.363712ff.css",
+    "static/js/main.2104b5a8.js"
+  ]
+}
